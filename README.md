@@ -18,7 +18,7 @@
     <img alt="VSCode" src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=skyblue"/>
     <img alt="zsh" src="https://img.shields.io/static/v1?label=Shell&message=zsh&color=black"/>
     <img alt="Vivaldi" src="https://img.shields.io/static/v1?label=Browser&message=Vivaldi&color=red"/>
-    <img alt="Reno5Pro+" src="https://img.shields.io/static/v1?label=Phone&message=Reno5Pro＋&color=magenta"/>
+    <img alt="Reno5Pro+" src="https://img.shields.io/static/v1?label=Phone&message=Reno5ProPlus&color=magenta"/>
 </div>
 
 ## Skills 🍹
