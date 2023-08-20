@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi, I'm 🧶</h1>
-    <p>A student of INIAD, and A member of INIAD Developers.</p>
+    <p>A student of INIAD, and A member of INIAD.ts.</p>
 </div>
 
 ## Links 🤝
