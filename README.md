@@ -6,8 +6,8 @@
 ## Links 🤝
 
 <div align="center">
-    <a target="_blank" href="https://twitter.com/mst_mkt">
-        <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@mst_mkt&color=blue"/>
+    <a target="_blank" href="https://twitter.com/keito_iniad">
+        <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@keito_iniad&color=blue"/>
     </a>
 </div>
 
