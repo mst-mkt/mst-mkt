@@ -14,7 +14,7 @@
 ## Environment ⚗️
 
 <div align="center">
-    <img alt="Windows 11" src="https://img.shields.io/static/v1?label=OS&message=Windows 11&color=blue"/>
+    <img alt="ArchLinux" src="https://img.shields.io/static/v1?label=OS&message=ArchLinu&color=blue"/>
     <img alt="VSCode" src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=skyblue"/>
     <img alt="zsh" src="https://img.shields.io/static/v1?label=Shell&message=zsh&color=black"/>
     <img alt="Vivaldi" src="https://img.shields.io/static/v1?label=Browser&message=Vivaldi&color=red"/>
