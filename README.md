@@ -1,25 +1,21 @@
 <div align="center">
-    <h1>Hi, I'm 🧶</h1>
+    <h1>
+        <span>Hi, I'm</span>
+        <span class='🧶'>🧶</span>
+    </h1>
     <p>A student of INIAD, and A member of INIAD.ts.</p>
-</div>
-
-## Links 🤝
-
-<div align="center">
-    <a target="_blank" href="https://twitter.com/mst_mkt_">
-        <img alt="Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&logo=twitter&label=Twitter&message=@mst_mkt_&color=blue"/>
-    </a>
+    <link rel='stylesheet' href='./styles/🧶.css'/>
 </div>
 
 ## Environment ⚗️
 
-<div align="center">
-    <img alt="ArchLinux" src="https://img.shields.io/static/v1?label=OS&message=ArchLinux&color=blue"/>
-    <img alt="VSCode" src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=skyblue"/>
-    <img alt="zsh" src="https://img.shields.io/static/v1?label=Shell&message=zsh&color=black"/>
-    <img alt="Vivaldi" src="https://img.shields.io/static/v1?label=Browser&message=Vivaldi&color=red"/>
-    <img alt="Reno5Pro+" src="https://img.shields.io/static/v1?label=Phone&message=Reno5ProPlus&color=magenta"/>
-</div>
+- <img width='20px' alt='ArchLinux' src='./assets/archlinux.svg' />  Arch Linux
+- <img width='20px' alt='i3 window manager' src='./assets/i3/docs/logo-30.png' /> i3 wm
+- <img width='20px' aly='zsh' src='https://www.zsh.org/color_vertical_icon.png' /> zsh
+- <img width='20px' alt='wezterm' src='./assets/wezterm/assets/icon/wezterm-icon.svg' /> wezterm
+- <img width='20px' alt='Visual Studio Code' src='https://code.visualstudio.com/assets/images/code-stable.png' /> Visual Studio Code
+- <img width='20px' alt='Vivaldi' src='https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/viv_icon.png' /> Vivaldi
+
 
 ## Skills 🍹
 
