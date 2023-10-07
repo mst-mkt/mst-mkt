@@ -1,0 +1,9 @@
+[submodule "assets/wezterm"]
+	path = assets/wezterm
+	url = https://github.com/wez/wezterm
+[submodule "assets/archlinux-artwork"]
+	path = assets/archlinux-artwork
+	url = https://aur.archlinux.org/archlinux-artwork.git
+[submodule "assets/i3"]
+	path = assets/i3
+	url = https://github.com/i3/i3
