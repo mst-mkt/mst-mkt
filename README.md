@@ -9,7 +9,7 @@
 
 ## Environment ⚗️
 
-- <img width='20px' alt='ArchLinux' src='./assets/archlinux.svg' />  Arch Linux
+- <img width='20px' style='margin-right:8px' alt='ArchLinux' src='./assets/archlinux.svg' />  Arch Linux
 - <img width='20px' alt='i3 window manager' src='./assets/i3.svg' /> i3 wm
 - <img width='20px' aly='zsh' src='https://www.zsh.org/color_vertical_icon.png' /> zsh
 - <img width='20px' alt='wezterm' src='https://wezfurlong.org/wezterm/favicon.svg' /> wezterm
