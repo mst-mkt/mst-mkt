@@ -10,9 +10,9 @@
 ## Environment ⚗️
 
 - <img width='20px' alt='ArchLinux' src='./assets/archlinux.svg' />  Arch Linux
-- <img width='20px' alt='i3 window manager' src='./assets/i3/docs/logo-30.png' /> i3 wm
+- <img width='20px' alt='i3 window manager' src='./assets/i3.svg' /> i3 wm
 - <img width='20px' aly='zsh' src='https://www.zsh.org/color_vertical_icon.png' /> zsh
-- <img width='20px' alt='wezterm' src='./assets/wezterm/assets/icon/wezterm-icon.svg' /> wezterm
+- <img width='20px' alt='wezterm' src='https://wezfurlong.org/wezterm/favicon.svg' /> wezterm
 - <img width='20px' alt='Visual Studio Code' src='https://code.visualstudio.com/assets/images/code-stable.png' /> Visual Studio Code
 - <img width='20px' alt='Vivaldi' src='https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/viv_icon.png' /> Vivaldi
 
