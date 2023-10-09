@@ -1,13 +1,15 @@
-<div align="center">
+<div>
+    <p align='right'>
+        <a href="https://twitter.com/mst_mkt_" target="blank">
+            <img src="https://img.shields.io/twitter/follow/mst_mkt_?logo=twitter&style=flat-square" alt="mst_mkt_" />
+        </a>
+    </p>
     <h1>
-        <br>
-        <font size='3'>Hi, I'm</font>
-        <p class='🧶'>
-            <big>🧶</big>
-        </p>
+        Hi, I'm 🧶
     </h1>
     <p>A student of INIAD, and A member of INIAD.ts.</p>
 </div>
+<br>
 
 ## Environment ⚗️
 
@@ -17,29 +19,18 @@
 - <img width='20px' alt='wezterm' src='https://wezfurlong.org/wezterm/favicon.svg' /> wezterm
 - <img width='20px' alt='Visual Studio Code' src='https://code.visualstudio.com/assets/images/code-stable.png' /> Visual Studio Code
 - <img width='20px' alt='Vivaldi' src='https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/viv_icon.png' /> Vivaldi
-
+<br>
+<br>
 
 ## Skills 🍹
+I'm learning ...
+- <img width='20px' alt='TypeScript' src='./assets/typescript.svg' /> TypeScript
+- <img width='20px' alt='React' src='./assets/react.svg'> React
+- <img width='20px' alt='Python' src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg'> Python
+- <img width='20px' alt='CSS3' src='./assets/css3.svg'> CSS3
+<br>
+<br>
 
-<div align="center">
-    <br>
-    <img width="48px" alt="HTML5" src="./assets/html5.svg"/>
-    <img width="48px" alt="CSS3" src="./assets/css3.svg"/>
-    <img width="48px" alt="JavaScript" src="./assets/javascript.svg"/>
-    <img width="48px" alt="JavaScript" src="./assets/typescript.svg"/>
-    <img width="48px" alt="Sass" src="./assets/sass.svg"/>
-    <br>
-    <br>
-    <h3>/* Learning */</h3>
-    <img width="48px" alt="Node.js" src="./assets/python.svg"/>
-    <img width="48px" alt="Vite" src="./assets/react.svg"/>
-    <img width="48px" alt="Vue.js" src="./assets/nodejs.svg"/>
-    <img width="48px" alt="Nuxt.js" src="./assets/prisma.svg"/>
-    <img width="48px" alt="React" src="./assets/nextjs.svg"/>
-    <br>
-    <br>
-    <p>Look and get more icons from <a href="https://simpleicons.org">Simple Icons</a></p>
-</div>
 
 ## Stats 🌡️
 
