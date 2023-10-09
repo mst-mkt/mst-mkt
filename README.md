@@ -3,7 +3,7 @@
         <br>
         <font size='3'>Hi, I'm</font>
         <p class='🧶'>
-            <font size='7'>🧶</font>
+            <big>🧶</big>
         </p>
     </h1>
     <p>A student of INIAD, and A member of INIAD.ts.</p>
