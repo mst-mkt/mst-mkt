@@ -38,15 +38,17 @@ I'm learning ...
 <br>
 <br>
 
-## My avatar is... 🎨
-<ruby>
-    <img width='36px' alt="🧶's avatar" src='https://github.com/mst-mkt.png' />
-    <rp>(</rp>
-    <rt>
-        <i>
-            <b>kawaii</b>
-        </i>
-    </rt>
-    <rp>)</rp>
-</ruby>
-<i>This avatar was illustrated by <a href='https;//twitter.com/4y4san'>4y4san</a>.</i>
+<h2>
+    About avatar 
+    <ruby>
+        <img width='36px' alt="🧶's avatar" src='https://github.com/mst-mkt.png' />
+        <rp>(</rp>
+        <rt>
+            <i>
+                <b>kawaii</b>
+            </i>
+        </rt>
+        <rp>)</rp>
+    </ruby>
+</h2>
+<i>This avatar was illustrated by <a href='https;//twitter.com/4y4san'>4y4san</a>.🎨</i>
