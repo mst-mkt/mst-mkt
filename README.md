@@ -32,7 +32,21 @@ I'm learning ...
 <br>
 <br>
 
-
 ## Stats 🌡️
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mst-mkt&count_private=true&show_icons=true&theme=graywhite)
+<br>
+<br>
+
+## My avatar is... 🎨
+<ruby>
+    <img width='36px' alt="🧶's avatar" src='https://github.com/mst-mkt.png' />
+    <rp>(</rp>
+    <rt>
+        <i>
+            <b>kawaii</b>
+        </i>
+    </rt>
+    <rp>)</rp>
+</ruby>
+<i>This avatar was illustrated by <a href='https;//twitter.com/4y4san'>4y4san</a>.</i>
