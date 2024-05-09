@@ -13,13 +13,13 @@
 
 ## Environment ⚗️
 
-- <img width='20px' alt='ArchLinux' src='./assets/archlinux.svg' />  Arch Linux
-- <img width='20px' alt='i3 window manager' src='./assets/i3.svg' /> i3 wm
-- <img width='20px' aly='zsh' src='https://www.zsh.org/color_vertical_icon.png' /> zsh
-- <img width='20px' alt='wezterm' src='https://wezfurlong.org/wezterm/favicon.svg' /> wezterm
-- <img width='20px' alt='Visual Studio Code' src='https://code.visualstudio.com/assets/images/code-stable.png' /> Visual Studio Code
-- <img width='20px' alt='Vivaldi' src='https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/viv_icon.png' /> Vivaldi
-<br>
+<img width='48px' src='./assets/icons/environment/arch.png' alt='Arch Linux' />
+<img width='48px' src='./assets/icons/environment/i3wm.png' alt='i3wm' />
+<img width='48px' src='./assets/icons/environment/wezterm.png' alt='wezterm' />
+<img width='48px' src='./assets/icons/environment/zsh.png' alt='zsh' />
+<img width='48px' src='./assets/icons/environment/vscode.png' alt='VSCode' />
+<img width='48px' src='./assets/icons/environment/vivaldi.png' alt='Vivaldi' />
+
 <br>
 
 ## Skills 🍹
