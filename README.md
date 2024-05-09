@@ -5,9 +5,9 @@
         </a>
     </p>
     <h1>
-        Hi, I'm 🧶
+        Hi, I'm 🧶.
     </h1>
-    <p>A student of INIAD, and A member of INIAD.ts.</p>
+    <p>A student of INIAD, and A representative of INIAD.ts.</p>
 </div>
 <br>
 
@@ -32,23 +32,18 @@
 <img width='48px' src='./assets/icons/skills/python.png' alt='Python' />
 <img width='48px' src='./assets/icons/skills/django.png' alt='Django' />
 
+<br>
+
 ## Stats 🌡️
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mst-mkt&count_private=true&show_icons=true&theme=graywhite)
 <br>
-<br>
 
 <h2>
-    About avatar 
+    About avatar
     <ruby>
         <img width='36px' alt="🧶's avatar" src='https://github.com/mst-mkt.png' />
-        <rp>(</rp>
-        <rt>
-            <i>
-                <b>kawaii</b>
-            </i>
-        </rt>
-        <rp>)</rp>
+        <rp>(</rp><rt><i><b>kawaii</b></i></rt><rp>)</rp>
     </ruby>
 </h2>
 <i>This avatar was illustrated by <a href='https;//twitter.com/4y4san'>4y4san</a>.🎨</i>
