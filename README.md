@@ -23,15 +23,14 @@
 <br>
 
 ## Skills 🍹
-I'm learning ...
-- <img width='20px' alt='TypeScript' src='./assets/typescript.svg' /> TypeScript
-    - <img width='20px' alt='React' src='./assets/react.svg'> React
-    - <img width='20px' alt='frourio' src='https://frourio.com/img/logo.svg'> frourio
-- <img width='20px' alt='Python' src='https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg'> Python
-    -  <img width='20px' alt='React' src='https://github.com/django.png'> Django
-- <img width='20px' alt='CSS3' src='./assets/css3.svg'> CSS3
-<br>
-<br>
+
+<img width='48px' src='./assets/icons/skills/typescript.png' alt='TypeScript' />
+<img width='48px' src='./assets/icons/skills/react.png' alt='React' />
+<img width='48px' src='./assets/icons/skills/frourio.png' alt='Frourio' />
+<img width='48px' src='./assets/icons/skills/css.png' alt='CSS' />
+<img width='48px' src='./assets/icons/skills/tailwind.png' alt='Tailwind' />
+<img width='48px' src='./assets/icons/skills/python.png' alt='Python' />
+<img width='48px' src='./assets/icons/skills/django.png' alt='Django' />
 
 ## Stats 🌡️
 
