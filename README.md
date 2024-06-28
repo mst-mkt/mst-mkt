@@ -19,7 +19,7 @@
 
 ## Skills 🍹
 
-<img width='48px' src='./assets/icons/skills/typescript.png' alt='TypeScript' /> <img width='48px' src='./assets/icons/skills/react.png' alt='React' /> <img width='48px' src='./assets/icons/skills/hono.png' alt='Hono' /> <img width='48px' src='./assets/icons/skills/frourio.png' alt='Frourio' /> <img width='48px' src='./assets/icons/skills/css.png' alt='CSS' /> <img width='48px' src='./assets/icons/skills/tailwind.png' alt='Tailwind' /> <img width='48px' src='./assets/icons/skills/python.png' alt='Python' /> <img width='48px' src='./assets/icons/skills/django.png' alt='Django' />
+<img width='48px' src='./assets/icons/skills/typescript.png' alt='TypeScript' /> <img width='48px' src='./assets/icons/skills/react.png' alt='React' /> <img width='48px' src='./assets/icons/skills/hono.png' alt='Hono' /> <img width='48px' src='./assets/icons/skills/frourio.png' alt='Frourio' /> <img width='48px' src='./assets/icons/skills/css.png' alt='CSS' /> <img width='48px' src='./assets/icons/skills/tailwind.png' alt='Tailwind' /> <img width='48px' src='./assets/icons/skills/python.png' alt='Python' /> <img width='48px' src='./assets/icons/skills/django.png' alt='Django' /> <img width='48px' src='./assets/icons/skills/c.png' alt='C lang' />
 
 <br>
 
