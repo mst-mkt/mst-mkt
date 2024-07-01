@@ -7,7 +7,7 @@
     <h1>
         Hi, I'm 🧶.
     </h1>
-    <p>A student of INIAD, and A representative of INIAD.ts.</p>
+    <p>A student of INIAD, and A ex-representative of INIAD.ts.</p>
 </div>
 <br>
 
