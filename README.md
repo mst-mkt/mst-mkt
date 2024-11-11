@@ -35,4 +35,4 @@
         <rp>(</rp><rt><i><b>kawaii</b></i></rt><rp>)</rp>
     </ruby>
 </h2>
-<i>This avatar was illustrated by <a href='https;//twitter.com/4y4san'>4y4san</a>.🎨</i>
+<i>This avatar was illustrated by <a href='https://twitter.com/4y4san'>4y4san</a>.🎨</i>
