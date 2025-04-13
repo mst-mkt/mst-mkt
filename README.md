@@ -9,7 +9,7 @@
 
 ### Environment ⚗️
 
-<img width='36px' src='./assets/icons/environments/arch.png' alt='Arch Linux' /> <img width='36px' src='./assets/icons/environments/i3wm.png' alt='i3wm' /> <img width='36px' src='./assets/icons/environments/wezterm.png' alt='wezterm' /> <img width='36px' src='./assets/icons/environments/zsh.png' alt='zsh' /> <img width='36px' src='./assets/icons/environments/vscode.png' alt='VSCode' /> <img width='36px' src='./assets/icons/environments/vivaldi.png' alt='Vivaldi' />
+<img width='36px' src='./assets/icons/environments/arch.png' alt='Arch Linux' /> <img width='36px' src='./assets/icons/environments/hyprland.png' alt='hyprland' /> <img width='36px' src='./assets/icons/environments/ghostty.png' alt='ghostty' /> <img width='36px' src='./assets/icons/environments/zsh.png' alt='zsh' /> <img width='36px' src='./assets/icons/environments/vscode.png' alt='VSCode' /> <img width='36px' src='./assets/icons/environments/vivaldi.png' alt='Vivaldi' />
 
 ### Skills 🍹
 
