@@ -11,6 +11,12 @@ This avatar was illustrated by <a href='https://twitter.com/4y4san'>4y4san</a>.�
 This girl is an original character with motif of yarn. 🧶
 </i>
 
+<br/>
+<br/>
+
+<details>
+<summary>More Information</summary>
+
 ### History 🚡
 
 **2023/04 ~ now** \
@@ -23,3 +29,18 @@ Engineer Part-time (Hatena Co., Ltd. [@hatena](https://github.com/hatena))<br/>
 CA Tech JOB (CyberAgent, Inc. [@cyberagent](https://github.com/cyberagent))<br/>
 **2025/10 ~ 2025/11** \
 Enablement Tech Job (Knowledge Work Inc. [@knowledge-work](https://github.com/knowledge-work))<br/>
+
+### Environment ⚗️
+
+**OS** ArchLinux \
+**Editor** Visual Studio Code \
+**Shell** zsh \
+**Terminal** wezterm \
+**Window Manager** Hyprland \
+**Browser** Vivaldi
+
+### Stats 🌡️
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mst-mkt&count_private=true&show_icons=true&theme=graywhite)
+
+</details>
