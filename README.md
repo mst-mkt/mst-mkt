@@ -41,6 +41,6 @@ Enablement Tech Job (Knowledge Work Inc. [@knowledge-work](https://github.com/kn
 
 ### Stats 🌡️
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mst-mkt&count_private=true&show_icons=true&theme=graywhite)
+![GitHub Stats](https://stats.keito.dev/api?username=mst-mkt&count_private=true&show_icons=true&theme=graywhite)
 
 </details>
