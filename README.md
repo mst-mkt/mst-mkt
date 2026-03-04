@@ -24,7 +24,7 @@ Student (INIAD, Toyo University [@iniad](https://github.com/iniad)) <br/>
 **2024/08** \
 PIXIV SUMMER BOOTCAMP (pixiv Inc. [@pixiv](https://github.com/pixiv))<br/>
 **2025/05 ~ now** \
-Engineer Part-time (Hatena Co., Ltd. [@hatena](https://github.com/hatena))<br/>
+Engineer Arbeit (Hatena Co., Ltd. [@hatena](https://github.com/hatena))<br/>
 **2025/09** \
 CA Tech JOB (CyberAgent, Inc. [@cyberagent](https://github.com/cyberagent))<br/>
 **2025/10 ~ 2025/11** \
