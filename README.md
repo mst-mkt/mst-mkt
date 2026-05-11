@@ -32,11 +32,11 @@ Enablement Tech Job (Knowledge Work Inc. [@knowledge-work](https://github.com/kn
 
 ### Environment ⚗️
 
-**OS** ArchLinux \
+**OS** NixOS \
 **Editor** Visual Studio Code \
-**Shell** zsh \
+**Shell** nushell \
 **Terminal** wezterm \
-**Window Manager** Hyprland \
+**Window Manager** niri \
 **Browser** Vivaldi
 
 ### Stats 🌡️
